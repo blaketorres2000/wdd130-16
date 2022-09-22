@@ -2,3 +2,51 @@ body div {
     max-width: 1600px;
     margin: 0 auto;
 }
+nav a {
+    text-align: center;
+}
+hero-msg h1 {
+    text-align: center;
+}
+hero-msg h4 {
+    text-align: center;
+}
+button-box {
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: #ffffff;
+}
+header {
+    background-color: #3c6e71;
+}
+nav a:hover {
+    background-color: #d9d9d9;
+}
+.book {
+    background-color: #219EBC;
+}
+.join {
+    background-color: #219EBC;
+}
+.book:hover {
+    background-color: #d9d9d9;
+}
+.join:hover {
+    background-color: #d9d9d9;
+}
+#background {
+    background-color: #d9d9d9;
+}
+.msg {
+    background-color: #219EBC;
+}
+footer {
+    background-color: #3c6e71;
+}
