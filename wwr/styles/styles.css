@@ -1,4 +1,4 @@
-body div {
+#content {
     max-width: 1600px;
     margin: 0 auto;
 }
@@ -23,7 +23,7 @@ main section {
     height: 725px;
 }
 body {
-    background-color: #ffffff;
+    background-color: #d9d9d9;
     color: #3c6e71;
 }
 header {
@@ -53,7 +53,7 @@ nav a:hover {
     color: #3c6e71;
 }
 #background {
-    background-color: #d9d9d9;
+    background-color: #9ac5cf;
     color: #3c6e71;
 }
 .msg {
