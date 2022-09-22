@@ -4,6 +4,7 @@ body div {
 }
 nav a {
     text-align: center;
+    color: black;
 }
 hero-msg h1 {
     text-align: center;
@@ -22,31 +23,61 @@ main section {
 }
 body {
     background-color: #ffffff;
+    color: #3c6e71;
 }
 header {
     background-color: #3c6e71;
+    color: #ffffff;
 }
 nav a:hover {
     background-color: #d9d9d9;
+    color: black;
 }
 .book {
     background-color: #219EBC;
+    color: black;
 }
 .join {
     background-color: #219EBC;
+    color: black;
 }
 .book:hover {
     background-color: #d9d9d9;
+    color: #3c6e71;
 }
 .join:hover {
     background-color: #d9d9d9;
+    color: #3c6e71;
 }
 #background {
     background-color: #d9d9d9;
+    color: #3c6e71;
 }
 .msg {
-    background-color: #219EBC;
+    background-color: #9ac5cf;
+    color: black;
 }
 footer {
-    background-color: #3c6e71;
+    background-color: #219EBC;
+}
+.home-title {
+    color: #173335;
+}
+h4 {
+    color: #173335;
+}
+.msg h2 {
+    color: black
+}
+.msg p {
+    color: black;
+}
+footer h3 {
+    color: #9ac5cf;
+}
+footer a {
+    color: #9ac5cf;
+}
+footer a:hover {
+    color: white;
 }
