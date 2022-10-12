@@ -33,7 +33,7 @@ main section {
 }
 
 body {
-    background-color: rgb(244, 240, 240);
+    background-color: #f4f0f0;
     color: #3c6e71;
     font-family: 'Bree Serif', serif;
     font-size: 22px;
@@ -43,7 +43,7 @@ body {
 
 header {
     background-color: #3c6e71;
-    color: rgb(244, 240, 240);
+    color: #f4f0f0;
 }
 
 nav a:hover {
@@ -53,7 +53,7 @@ nav a:hover {
 
 .book {
     background-color: black;
-    color: rgb(244, 240, 240);
+    color: #f4f0f0;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -63,7 +63,7 @@ nav a:hover {
 
 .join {
     background-color: black;
-    color: rgb(244, 240, 240);
+    color: #f4f0f0;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -125,7 +125,7 @@ footer h3 {
 }
 
 footer a {
-    color: rgb(244, 240, 240);
+    color: #f4f0f0;
     text-decoration: none;
 }
 
