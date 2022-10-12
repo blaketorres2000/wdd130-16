@@ -28,8 +28,8 @@ main section {
 
 #background {
     height: 725px;
-    background-color: #b3dbde;
-    color: #3c6e71;
+    background-color: #284b63;
+    color: #f4f0f0;
 }
 
 body {
@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .book {
-    background-color: black;
+    background-color: #284b63;
     color: #f4f0f0;
     text-decoration: none;
     font-size: 18px;
@@ -62,7 +62,7 @@ nav a:hover {
 }
 
 .join {
-    background-color: black;
+    background-color: #284b63;
     color: #f4f0f0;
     text-decoration: none;
     font-size: 18px;
@@ -73,12 +73,12 @@ nav a:hover {
 
 .book:hover {
     background-color: #b3dbde;
-    color: #3c6e71;
+    color: #284b63;
 }
 
 .join:hover {
     background-color: #b3dbde;
-    color: #3c6e71;
+    color: #284b63;
 }
 
 .msg {

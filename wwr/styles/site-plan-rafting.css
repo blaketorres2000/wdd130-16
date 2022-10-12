@@ -10,6 +10,7 @@ Fonts are separated by a & */
   --secondary-color: #b3dbde;
   --accent1-color: #f4f0f0;
   --accent2-color: black;
+  --accent3-color: #284b63;
 
   /* change the values below to your chosen font(s) */
   --heading-font: 'Combo', cursive, sans-serif;;
