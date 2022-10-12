@@ -120,12 +120,12 @@ h2 {
     padding-bottom: 15px;
 }
 
-footer p {
+footer h3 {
     color: black;
 }
 
 footer a {
-    color: #3c6e71;
+    color: rgb(244, 240, 240);
     text-decoration: none;
 }
 
