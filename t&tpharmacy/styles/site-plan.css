@@ -2,10 +2,8 @@
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
 @import url("https://fonts.googleapis.com/css2?family=Arizonia&family=Bree+Serif&family=Combo&display=swap" rel="stylesheet");
-@import url("https://fonts.googleapis.com/css2?family=Markazi+Text&display=swap" rel="stylesheet")
-@import url('https://coolors.co/palette/b82828-124364-ffffff-000000-d1d1d1')
 
-:root {
+@import url("https://fonts.googleapis.com/css2?family=Markazi+Text&display=swap" rel="stylesheet") @import url('https://coolors.co/palette/b82828-124364-ffffff-000000-d1d1d1'):root {
     /* change the values below to your colors from your palette */
     --primary-color: #b82828;
     --secondary-color: #124364;
@@ -14,7 +12,7 @@ Fonts are separated by a | */
     --accent3-color: #d1d1d1;
 
     /* change the values below to your chosen font(s) */
-    --heading-font: 'Arizonia', cursive,'Bree Serif', serif,'Combo', cursive, sans-serif;
+    --heading-font: 'Arizonia', cursive, 'Bree Serif', serif, 'Combo', cursive, sans-serif;
     --paragraph-font: 'Markazi Text', serif;
 
     /* these colors below should be chosen from among your palette colors above */
