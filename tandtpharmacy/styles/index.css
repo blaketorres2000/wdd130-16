@@ -1,0 +1,62 @@
+#content {
+    width: 1800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(6, 100px);
+    grid-template-rows: repeat(13, 100px);
+}
+
+header {
+    width: 100%;
+    grid-column: 1/7;
+    grid-row: 1/2;
+    align-items: center;
+}
+
+#logo_link {
+    grid-column: 1/2;
+}
+
+nav {
+    grid-column: 3/7;
+}
+
+#heading-img {
+    grid-column: 1/7;
+    grid-row: 2/4;
+}
+
+#heading-title h1 {
+    grid-column: 2/6;
+    grid-row: 4/5;
+}
+
+#heading-title h4 {
+    grid-column: 1/7;
+    grid-row: 5/6;
+}
+
+.pharmacy-img {
+    grid-column: 2/6;
+    grid-row: 6/8;
+}
+
+.msg {
+    grid-column: 1/7;
+    grid-row: 8/10;
+}
+
+#find-us-img {
+    grid-column: 1/4;
+    grid-row: 10/12;
+}
+
+.find-us {
+    grid-column: 4/7;
+    grid-row: 10/12;
+}
+
+footer {
+    grid-column: 1/7;
+    grid-row: 12/13;
+}
