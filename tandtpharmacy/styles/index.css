@@ -40,7 +40,7 @@ nav a {
 }
 
 nav :hover {
-    color: #0c2d43;
+    color: white;
     background-color: #9b0303;
     text-decoration: underline;
 }
@@ -178,7 +178,7 @@ footer a {
 footer p a:hover {
     padding: 20px;
     text-align: center;
-    color: #0c2d43;
+    color: white;
     background-color: #9b0303;
     text-decoration: underline;
 }
