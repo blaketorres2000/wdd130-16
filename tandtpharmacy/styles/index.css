@@ -151,6 +151,7 @@ footer {
     grid-template-columns: 475px 375px 375px 375px;
     align-items: center;
     background-color: #0c2d43;
+    color: white;
 }
 
 footer h3 {
@@ -160,7 +161,7 @@ footer h3 {
     font-family: "Satisfy", cursive;
 }
 
-footer p {
+footer a {
     display: flex;
     justify-content: space-around;
     text-align: center;
