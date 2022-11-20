@@ -45,13 +45,131 @@ nav :hover {
     text-decoration: underline;
 }
 
+#page-title {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
+#page-title-img {
+    width: 600px;
+    margin-left: 150px;
+    border: solid 7px #9b0303;
+    border-radius: 10px;
+}
 
+#page-title h1 {
+    font-size: 85px;
+    font-family: "Satisfy", cursive;
+    color: #0c2d43;
+    margin-top: 125px;
+    margin-right: 150px;
+    margin-left: 50px;
+    text-align: center;
+    text-shadow: -1px 2px 3px #9b0303;
+}
 
+main {
+    max-width: 1600px;
+    border: #0c2d43 solid 7px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
 
+.childhood {
+    width: fit-content;
+}
 
+.brothers-img {
+    width: 350px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
 
+.childhood p {
+    font-family: 'EB Garamond', 'Markazi Text', serif;
+    font-size: 30px;
+}
 
+.couple {
+    width: 350px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.war {
+    width: fit-content;
+}
+
+.oj-military {
+    width: 350px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.war p {
+    font-family: 'EB Garamond', 'Markazi Text', serif;
+    font-size: 30px;
+}
+.bud-military {
+    width: 350px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.school {
+    width: fit-content;
+}
+
+.school p {
+    font-family: 'EB Garamond', 'Markazi Text', serif;
+    font-size: 30px;
+}
+
+.work {
+    width: fit-content;
+}
+
+.org-store {
+    width: 500px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.work p {
+    font-family: 'EB Garamond', 'Markazi Text', serif;
+    font-size: 30px;
+}
+
+.brothers-img2 {
+    width: 500px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.gary {
+    width: fit-content;
+    height: fit-content;
+}
+
+.gary p {
+    font-family: 'EB Garamond', 'Markazi Text', serif;
+    font-size: 30px;
+}
+
+.gary-img {
+    width: 350px;
+    height: 410px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
 
 footer {
     width: 100%;
