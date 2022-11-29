@@ -59,6 +59,12 @@ p {
     position: center;
   }
   
+  .container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .center {
     display: block;
     margin-left: auto;
@@ -94,7 +100,8 @@ p {
   
   /* Position the "next button" to the right */
   .next {
-    right: 19%;
+    display: block;
+    margin-left: 1450px;
     border-radius: 3px 0 0 3px;
   }
   
