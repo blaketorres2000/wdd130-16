@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>T & T Pharmacy | Contact Us</title>
-    <link rel="stylesheet" href="styles/review.css">
+    <link rel="stylesheet" href="styles/index.css">
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&family=Markazi+Text&family=Satisfy&display=swap"
         rel="stylesheet">
 </head>
@@ -29,13 +29,16 @@
 
         <main>
 
-            <h1>
-                Submit a Review
-            </h1>
+            <section id="review">
 
-            <h4>
-                All reviews are anonymous.
-            </h4>
+                <h1>
+                    Submit a Review
+                </h1>
+
+                <h4>
+                    All reviews are anonymous.
+                </h4>
+            </section>
 
             <div id="feedback"></div>
             <form action="/my-handling-form-page" method="post">
@@ -74,7 +77,7 @@
             // make the feedback element visible.
             feedbackElement.style.display = "block";
             // add a class to move everything down so our message doesn't cover it.
-            document.body.classList.toggle('moveDown');
+            document.body.classList.toggle('reviewmoveDown');
         });
     </script>
 
