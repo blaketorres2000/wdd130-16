@@ -29,6 +29,7 @@ nav {
 nav a:hover {
     background-color: #A1B3B1;
     color: #000000;
+    height: 180px;
 }
 
 .logo {
